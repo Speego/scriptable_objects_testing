@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c73a5f5bd5bd0194593223c979849ef2, type: 3}
+  m_Name: Wheat
+  m_EditorClassIdentifier: 
+  m_ResourceName: Wheat
+  m_Sprite: {fileID: 21300000, guid: 537d884411e17af47871a1e6a5aeaaf7, type: 3}
+  m_IncreaseRate: {fileID: 11400000, guid: 31e6c6b7d4a94d7459771753cc15071e, type: 2}
+  m_IncreaseInterval: {fileID: 11400000, guid: 810288dc298978648b7080e59508f0dc, type: 2}
+  m_DemandRange: {fileID: 11400000, guid: cf5fcf79231a97f48bc5612b55780b3c, type: 2}
